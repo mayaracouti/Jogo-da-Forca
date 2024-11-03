@@ -49,6 +49,7 @@ public class Tracinhos implements Cloneable
         return todosCaracteres;
     }
 
+
     @Override
     public boolean equals (Object obj)
     {
