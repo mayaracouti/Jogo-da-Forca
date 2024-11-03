@@ -5,7 +5,7 @@ Este projeto é uma implementação do clássico jogo da forca, desenvolvido em 
 
 ## Funcionalidades Principais
 - Seleção aleatória de palavras a serem adivinhadas.
-- Exibição de traços que representam as letras da palavra oculta.
+- Exibição de caracteres que representam as letras da palavra oculta.
 - Registro das letras já tentadas, evitando repetições.
 - Contador de erros, limitando o número de tentativas do jogador.
 - Interface simples em linha de comando para interação com o usuário.
