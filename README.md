@@ -1,7 +1,7 @@
 # Jogo da Forca em Java
 
 ## Descrição
-Este projeto é uma implementação do clássico jogo da forca, desenvolvido em Java. O objetivo do jogo é adivinhar uma palavra oculta, letra por letra, dentro de um número limitado de tentativas. O jogador é apresentado a uma série de traços que representam as letras da palavra, e deve inserir letras para tentar preenchê-los. A cada erro, uma parte do "boneco" é desenhada, e o jogo termina quando o jogador adivinha a palavra ou esgota suas tentativas.
+Este projeto é uma implementação do clássico jogo da forca, desenvolvido em Java. O objetivo do jogo é adivinhar uma palavra oculta, letra por letra, dentro de um número limitado de tentativas. O jogador é apresentado a uma série de traços que representam as letras da palavra, e deve inserir letras para tentar preenchê-los.O jogo termina quando o jogador adivinha a palavra ou esgota suas tentativas.
 
 ## Funcionalidades Principais
 - Seleção aleatória de palavras a serem adivinhadas.
